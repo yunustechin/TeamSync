@@ -34,7 +34,7 @@
 
 ### Collaboration & Communication
 - Task and project-based comments
-- Notification system (real-time with WebSocket)
+- Notification system 
 - Email / push notification support
 
 ### Planning & Reporting
@@ -43,11 +43,11 @@
 - Sprint reports and activity logs
 
 ### System & Infrastructure
-- Real-time updates (WebSocket, Kafka/RabbitMQ event-driven)
+- Real-time updates 
 - Offline work support (PWA option for frontend)
 - Audit log (tracking who did what when)
 - Responsive and accessible interface,
 
 ---
 
-**Development Notes:** This project will use Python, JavaScript, TypeScript, React, HTML5, CSS3, Tailwind CSS, Material UI, Redux Toolkit, Context API, Node.js, REST APIs, PostgreSQL, Matplotlib or Seaborn, Docker, Firebase, Heroku, and Nginx for version 1.0. My goal for this version is to prepare it for CI/CD and production. Afterward, the project will be released for free.
+**Development Notes:** This project will use Python, JavaScript, TypeScript, React, HTML5, CSS3, Tailwind CSS, Material UI, Redux Toolkit, Context API, Node.js, REST APIs, PostgreSQL, Matplotlib or Seaborn, Apache Kafka, Docker, Firebase, Heroku, and Nginx for version 1.0. My goal for this version is to prepare it for CI/CD and production. Afterward, the project will be released for free.
