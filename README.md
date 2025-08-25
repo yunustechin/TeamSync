@@ -50,4 +50,4 @@
 
 ---
 
-**Development Notes:** This project will use Python, JavaScript, TypeScript, React, HTML5, CSS3, Tailwind CSS, Material UI, Redux Toolkit, Context API, Node.js, REST APIs, PostgreSQL, Matplotlib or Seaborn, Apache Kafka, Docker, Firebase, Heroku, and Nginx for version 1.0. My goal for this version is to prepare it for CI/CD and production. Afterward, the project will be released for free.
+**Development Notes:** This project will use Python, JavaScript, TypeScript, React, HTML5, CSS3, Tailwind CSS, Material UI, Redux Toolkit, Context API, Node.js, REST APIs, PostgreSQL, Matplotlib or Seaborn, Apache Kafka, Web Sockets, Docker, Firebase, Heroku, and Nginx for version 1.0. My goal for this version is to prepare it for CI/CD and production. Afterward, the project will be released for free.
